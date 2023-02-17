@@ -1,0 +1,30 @@
+#banner{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/tennis3.jpg) no-repeat;
+  background-size:cover;
+}
+
+#banner .jumbotron{
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+}
+
+#banner . jumbotron{
+  padding:20px;
+}
+
+#HAHA{
+  background-color:#e6e8e5;
+}
+
+.navbar{
+  position:relative;
+  min-height:65px;
+  margin-bottom:22px;
+  border:1px solid transparent;
+}
+
